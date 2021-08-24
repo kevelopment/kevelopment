@@ -1,5 +1,8 @@
-### Hi there 👋 I'm Kevin
+<h1 align="center">Hi there 👋 I'm Kevin Adam</h1>
+
 I'm currently living in Oldenburg, Germany and gladly managed to turn one of my Hobbies into a Profession leading me into becoming a passionate JavaScript & TypeScript developer. 🦄
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevelopment)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kevelopment/kevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
