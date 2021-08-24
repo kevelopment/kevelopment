@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Kevin
+I'm currently living in Oldenburg, Germany and gladly managed to turn one of my Hobbies into a Profession leading me into becoming a passionate JavaScript & TypeScript developer. 🦄
 <!--
 **kevelopment/kevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
