@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋 I'm Kevin Adam</h1>
 
-I'm currently living in Oldenburg, Germany and gladly managed to turn one of my Hobbies into a Profession leading me into becoming a passionate JavaScript & TypeScript developer. 🦄
+I managed to turn one of my hobbies into a Profession ending up as a a passionate JavaScript & TypeScript Full-Stack web developer. 🦄
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 
 
