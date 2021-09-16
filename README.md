@@ -7,7 +7,7 @@ I managed to turn one of my hobbies into a Profession ending up as a a passionat
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Node](https://img.shields.io/badge/node-%23E0234E.svg?style=flat-square&logo=node&logoColor=white)
+![Node](https://img.shields.io/badge/node-%23282C34.svg?style=flat-square&logo=node&logoColor=white)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevelopment)](https://github.com/anuraghazra/github-readme-stats) -->
