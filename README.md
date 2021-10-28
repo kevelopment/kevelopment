@@ -2,7 +2,7 @@
 
 I managed to turn one of my hobbies into a Profession ending up as a a passionate JavaScript & TypeScript Full-Stack web developer. 🦄
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
