@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Kevin Adam</h1>
+<h1 align="center">Hi there 👋 I'm Kevin</h1>
 
 I managed to turn one of my hobbies into a Profession ending up as a a passionate JavaScript & TypeScript Full-Stack web developer. 🦄
 
