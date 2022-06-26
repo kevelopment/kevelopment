@@ -5,10 +5,10 @@ I managed to turn one of my hobbies into a Profession ending up as a a passionat
 ## What I like
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/node-%23282C34.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-%23282C34.svg?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-%23E0234E.svg?style=flat-square&logo=angular)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
-![Node](https://img.shields.io/badge/node-%23282C34.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![Node](https://img.shields.io/badge/NodeJS-%23282C34.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevelopment)](https://github.com/anuraghazra/github-readme-stats) -->
