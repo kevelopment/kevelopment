@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋 I'm Kevin,</h1>
+<h1 align="center">Hi there 🦕 </h1>
 
-I managed to turn one of my hobbies into a Profession ending up as a a passionate JavaScript & TypeScript Full-Stack web developer. 🦄
+I'm Kevin and I managed to turn one of my hobbies into a Profession ending up as a a passionate TypeScript Full-Stack web developer. 🕸
 
 ## Frameworks / Tools that I like
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
