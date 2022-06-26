@@ -11,6 +11,9 @@ I managed to turn one of my hobbies into a Profession ending up as a a passionat
 ![Node](https://img.shields.io/badge/NodeJS-%228B22.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23282C34.svg?style=flat-square&logo=heroku&logoColor=white)
 
+![Fedora](https://img.shields.io/badge/Fedora-007ACC?style=flat-square&logo=fedora&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-%23282C34?style=flat-square&logo=macos&logoColor=white)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevelopment)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Kevins Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=Inception-CNN-Sample,kevelopment.github.io,rmitest-chat&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
