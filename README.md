@@ -6,7 +6,9 @@ I'm Kevin and I managed to turn one of my hobbies into a Profession ending up as
 Node.js and TypeScript 😍
 
 Cloud: Heroku and Github
+
 Frontend: React and NextJS
+
 Backend: NestJS, Prisma, TypeORM
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevelopment)](https://github.com/anuraghazra/github-readme-stats) -->
